@@ -33,7 +33,7 @@
 |---|---|
 | Week | 01 |
 | Task Code | WK1-PM1 |
-| Project | Isolated Cybersecurity Lab Setup |
+| Project | Isolated Pentesting Lab Setup |
 | Environment | VirtualBox 7.2 + Kali Linux 2026.2 |
 
 ---
