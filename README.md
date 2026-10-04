@@ -80,10 +80,12 @@ Any future VM can be added into the same `10.0.0.0/24` range without touching th
 | Host OS | Windows 11 |
 | Hypervisor | VirtualBox 7.2 |
 | Guest OS | Kali Linux 2026.2 |
-| Allocated RAM | 4096 MB |
+| Guest OS | Windows 11 |
+| Allocated RAM For Guest OS | 4096 MB |
 | Network Mode | NAT Network (Isolated and Internet-capable) |
 | Subnet | `10.0.0.0/24` |
 | Kali Static IP | `10.0.0.2/24` |
+| Win11 Static IP | `10.0.0.11/24` |
 | Gateway | `10.0.0.1` |
 | DNS | `8.8.8.8` |
 | Shared Folder | Host `/Downloads` -> Kali |
