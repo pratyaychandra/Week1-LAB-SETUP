@@ -5,7 +5,7 @@
 **A Self-Contained Isolated Pentesting Sandbox Built From Scratch On VirtualBox.**
 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-v7.2-183A61?style=for-the-badge&logo=virtualbox)
-![HOST-OS](https://img.shields.io/badge/Host-OSWindows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![HOST-OS](https://img.shields.io/badge/HostOS-Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![Kali-attacker](https://img.shields.io/badge/Kali%20Linux-2026.2-557C94?style=for-the-badge&logo=kalilinux)
 ![Guest-OS](https://img.shields.io/badge/GuestOS-Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![Network](https://img.shields.io/badge/Subnet-10.0.0.0%2F24-black?style=for-the-badge)
