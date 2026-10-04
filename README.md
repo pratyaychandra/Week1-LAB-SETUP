@@ -6,7 +6,7 @@
 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-v7.2-183A61?style=for-the-badge&logo=virtualbox)
 ![Kali](https://img.shields.io/badge/Kali%20Linux-2026.2-557C94?style=for-the-badge&logo=kalilinux)
-![Guest OS](https://img.shields.io/badge/Host-Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![GuestOS](https://img.shields.io/badge/GuestOS-Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![Network](https://img.shields.io/badge/Subnet-10.0.0.0%2F24-black?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
